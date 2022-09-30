@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Henderson Sargeant</h1>
 <h3 align="center">A passionate Software Engineer / Professional Problem Solver</h3>
 
-- 🔭 I’m currently working on **building some great web apps**
+- 🔭 I’m currently working on **Mindful Math**. A full stack web to support K-12 students with their math classes.
 
 - 👨‍💻 All of my projects are available at [https://tinyurl.com/HendersonSargeant](https://tinyurl.com/HendersonSargeant)
 
