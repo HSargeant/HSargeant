@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available on my portfolio at [https://tinyurl.com/HendersonSargeant](https://tinyurl.com/HendersonSargeant)
 
-- 📄 Know about my experiences [Resume](https://bit.ly/HS-Resume1)
-- 📫 How to reach me **hssoftwareengineering@gmail.com**
+- 📄 Know about my experiences: [Resume](https://bit.ly/HS-Resume1)
+- 📫 How to reach me: **hssoftwareengineering@gmail.com**
 
 <!--
 <h3 align="left">Connect with me:</h3>
