@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Henderson Sargeant</h1>
 <h3 align="center">A passionate Software Engineer / Professional Problem Solver</h3>
 
-- 🔭 I’m currently working on [**Mindful Math**](https://github.com/HSargeant/mindful-math){:target="_blank"}. A full stack web to support K-12 students with their math classes.
+- 🔭 I’m currently working on [**Mindful Math**](https://github.com/HSargeant/mindful-math). A full stack web to support K-12 students with their math classes.
 
-- 👨‍💻 All of my projects are available on my portfolio at [https://tinyurl.com/HendersonSargeant](https://tinyurl.com/HendersonSargeant){:target="_blank"}
+- 👨‍💻 All of my projects are available on my portfolio at [https://tinyurl.com/HendersonSargeant](https://tinyurl.com/HendersonSargeant)
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1sZmYz82vGSa9ZYt2OAEVmg3V1q6G8ezR/view?usp=share_link){:target="_blank"}
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1sZmYz82vGSa9ZYt2OAEVmg3V1q6G8ezR/view?usp=share_link)
 - 📫 How to reach me: **hssoftwareengineering@gmail.com**
 
 <!--
