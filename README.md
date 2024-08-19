@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [**Mindful Math**](https://github.com/HSargeant/mindful-math). A full stack web to support K-12 students with their math classes.
 
-- 👨‍💻 All of my projects are available on my portfolio at [https://tinyurl.com/HendersonSargeant](https://tinyurl.com/HendersonSargeant)
+- 👨‍💻 View some projects I've worked on at [https://tinyurl.com/HendersonSargeant](https://tinyurl.com/HendersonSargeant)
 
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1b1GqIw1AU_2jcjAfkG_Z80GKSjjE-XCH/view)   
 - 📫 How to reach me: **hssoftwareengineering@gmail.com**
