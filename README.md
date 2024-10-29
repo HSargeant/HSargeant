@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 View some projects I've worked on at [https://tinyurl.com/HendersonSargeant](https://tinyurl.com/HendersonSargeant)
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1b1GqIw1AU_2jcjAfkG_Z80GKSjjE-XCH/view)   
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1HIZe69IB5ns1RFHaz0Zaixr2YIxnF525/view)   
 - 📫 How to reach me: **hssoftwareengineering@gmail.com**
 
 
